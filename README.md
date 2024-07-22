@@ -26,10 +26,10 @@ Getting Started
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
+https://docs.flutter.dev/get-started/codelab
+https://docs.flutter.dev/cookbook
 
-Lab: Write your first Flutter app
-Cookbook: Useful Flutter samples
-For help getting started with Flutter development, view the online documentation, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
 
 Preview: ![Iot app](https://github.com/user-attachments/assets/dc92fd8e-a6bd-45fa-b76e-6f41b26a376c)
 
