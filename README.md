@@ -3,15 +3,14 @@ Overview
 This project is an Internet of Things (IoT) Flutter application that allows users to interact with and control connected devices seamlessly. The app provides a user-friendly interface to monitor and manage IoT devices, making it easy for users to stay connected to their smart environments.
 
 Features
+
 Device Control: Control IoT devices remotely through the app. Turn devices on/off.
-
 Real-time Monitoring: View real-time data and status updates from connected devices. Stay informed about the current state of your IoT ecosystem.
-
 Intuitive Ui: A clean and intuitive Ui design for easy navigation and a pleasant user experience.
-
 Device Compatibility: Connect with a variety of IoT devices, supporting different protocols and communication standards.
 
 Technologies Used
+
 Flutter: The app is built using the Flutter framework, allowing for a single codebase for both Android and iOS platforms.
 Dart: The programming language used for developing the Flutter app.
 IoT Protocols: Implement industry-standard IoT protocols for seamless communication with connected devices.
