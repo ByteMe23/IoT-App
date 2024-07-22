@@ -19,8 +19,10 @@ IoT Protocols: Implement industry-standard IoT protocols for seamless communicat
 
 Flask and MicroPython for Server : Utilize Flask as the backend server framework and MicroPython for microcontroller-based IoT devices.
 
+
 Checkout the Server Repository
 Server Source Code: https://github.com/ByteMe23/IoT-Server
+
 
 Getting Started
 This project is a starting point for a Flutter application.
