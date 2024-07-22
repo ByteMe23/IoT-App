@@ -12,8 +12,11 @@ Device Compatibility: Connect with a variety of IoT devices, supporting differen
 Technologies Used
 
 Flutter: The app is built using the Flutter framework, allowing for a single codebase for both Android and iOS platforms.
+
 Dart: The programming language used for developing the Flutter app.
+
 IoT Protocols: Implement industry-standard IoT protocols for seamless communication with connected devices.
+
 Flask and MicroPython for Server : Utilize Flask as the backend server framework and MicroPython for microcontroller-based IoT devices.
 
 Checkout the Server Repository
